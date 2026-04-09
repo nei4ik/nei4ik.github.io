@@ -141,7 +141,7 @@ footer {
     background-color: cornflowerblue;
     border-radius: 10px;
     height: 100px;
-    width: 100%;
+    width: auto;
     box-shadow: 0 3px 0 rgb(162, 190, 252);
     display: flex;
     align-items: center;
