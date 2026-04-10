@@ -123,14 +123,13 @@ main {
 
 .tableTalous {
 	border-collapse: collapse;
-    max-width: 100%;
     height: auto;
-    margin-bottom: 60px;
-    margin: auto;
+    margin: 0;
     border-left: 1px solid gray;
 	border-right: 1px solid gray;
     text-align: center;
     padding: 5%;
+	font-size: 3vw;
 }
 
 td {
